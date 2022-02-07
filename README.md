@@ -1,2 +1,2 @@
 # packet-tracer
-{acket Tracer labs I created
+Packet Tracer labs I created
